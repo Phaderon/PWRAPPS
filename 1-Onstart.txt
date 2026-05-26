@@ -1,0 +1,50 @@
+Set(varSelectedState,"Current");
+
+Set(varSelectPolicy,"Empty");
+Set(varHistoricLimit, 30);
+// Selection variables
+Set(varSelectedDate, Today());                  // Date type
+Set(varSelectedItem, First(PolicyItems));       // Record from PolicyItems
+Set(varSelectedLink, First(PolicyLinks));       // Record from PolicyLinks
+
+// Boolean flags (global)
+Set(varShowDayModal, false);
+Set(varShowItemModal, false);
+Set(varShowLinkModal, false);
+
+ClearCollect(
+    colChoiceColors,
+    ForAll(
+        Choices('Policy Proof Tracker'.'Document Type'),
+        {
+            ChoiceValue: Value,
+            ColorCode: RGBA(
+                200 + Rand() * 55, // Red: 200–255
+                200 + Rand() * 55, // Green: 200–255
+                200 + Rand() * 55, // Blue: 200–255
+                1
+            )
+        }
+    )
+)
+;
+// Theme
+Set(
+    AppTheme,
+    {
+        palette: {
+            themePrimary: RGBA(0, 64, 47, 1),      // Main brand color
+            themeSecondary: RGBA(45, 128, 40, 1),  // Hover/secondary
+            themeTertiary: RGBA(52, 152, 47, 1),   // Pressed
+            neutralLight: RGBA(237, 237, 237, 1),  // Light backgrounds
+            neutralDark: RGBA(50, 49, 48, 1),      // Dark text
+            white: RGBA(255, 255, 255, 1)          // White
+        },
+        semanticColors: {
+            buttonBackground: RGBA(0, 64, 47, 1),
+            buttonBackgroundHovered: RGBA(45, 128, 40, 1),
+            buttonBackgroundPressed: RGBA(52, 152, 47, 1),
+            buttonText: RGBA(255, 255, 255, 1)
+        }
+    }
+);
