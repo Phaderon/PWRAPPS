@@ -1,0 +1,48 @@
+Added On    - Date and Time
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEditEx.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Created
+Approved By - Person or Group
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEditEx.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ApprovedBy
+Approved by Pillar Lead (Ready to Release)      - Yes/No
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ReadyForRelease
+Approved For Release By - Choice
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Approved%5Fx0020%5FFor%5Fx0020%5FRelease
+Approved for Release by ACOS, XO or SO1 (for CFIs & CBNs)   - Yes/No
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ApprovedforReleasebyACOS%5Fx002c%5FX
+Audience    Single line of text     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Audience
+Branch comments by      Date and Time     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Branchcommentsby
+Document Type     Choice      Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=TrackerType
+EmailSent   Yes/No
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=EmailSent
+Expiry Date Date and Time     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ExpiryDate
+External consultation details Multiple lines of text
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=External%5Fx0020%5Fconsultation%5Fx0020
+External consultation required      Yes/No
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=External%5Fx0020%5Fconsultation%5Fx002
+Files & Attachments     Multiple lines of text  Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=FilesAttachments
+High Priority     Yes/No      Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=HighPriority
+Item summary      Multiple lines of text  Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Item%5Fx0020%5Fsummary
+Owner Person or Group   Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEditEx.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Owner
+Planned Publish Date    Date and Time     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=PublishDate
+Published   Yes/No      Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Published
+Published Date    Date and Time     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ActualPublishedDate
+Reason for High Priority      Multiple lines of text  Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ReasonforHighPriority
+Remarks     Multiple lines of text  Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Remarks
+Title Single line of text     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Title
+Title for Newsletter    Single line of text     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=Title%5Fx0020%5Ffor%5Fx0020%5FNewsletter
+To XO/ACOS By     Date and Time     Item
+https://modgovuk.sharepoint.com/teams/1598/_layouts/15/FldEdit.aspx?List=%7BC511E098%2DC45C%2D430B%2D8FD1%2D10962F99E200%7D&Field=ToXOBy
